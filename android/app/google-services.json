@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "355067498840",
+    "project_id": "react-native-map-checker",
+    "storage_bucket": "react-native-map-checker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355067498840:android:980d8dc126d6eaa339952d",
+        "android_client_info": {
+          "package_name": "com.geolocationbackground"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0reWJKtzcj-KyEFEZVzSejQH9LwgJSGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
